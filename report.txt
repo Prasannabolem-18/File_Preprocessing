@@ -1,0 +1,16 @@
+Log Summary
+-----------
+INFO count: 11
+WARNING count: 6
+ERROR count: 8
+
+Error Details:
+--------------
+2026-04-07 10:03:00 ERROR Failed to connect to database
+2026-04-07 10:05:00 ERROR Timeout while calling API
+2026-04-07 10:09:00 ERROR Invalid user input
+2026-04-07 10:12:00 ERROR Failed to write file
+2026-04-07 10:15:00 ERROR Authentication failed
+2026-04-07 10:18:00 ERROR Database connection lost
+2026-04-07 10:21:00 ERROR API rate limit exceeded
+2026-04-07 10:24:00 ERROR File not found

@@ -1,0 +1,13 @@
+2026-04-07 15:46:07,964 - INFO - Log file read successfully
+2026-04-07 15:46:07,965 - INFO - Log processing completed
+2026-04-07 15:46:07,965 - INFO - Report generated successfully
+2026-04-07 15:47:18,354 - ERROR - Log file is empty
+2026-04-07 15:47:32,020 - ERROR - File not found
+2026-04-07 15:47:58,130 - INFO - Log file read successfully
+2026-04-07 15:47:58,131 - ERROR - Incorrect log format:  worldHello
+2026-04-07 15:47:58,131 - ERROR - Incorrect log format: 2026-04-07 ERROR Missing time
+2026-04-07 15:47:58,131 - INFO - Log processing completed
+2026-04-07 15:47:58,132 - INFO - Report generated successfully
+2026-04-07 15:50:47,645 - INFO - Log file read successfully
+2026-04-07 15:50:47,645 - INFO - Log processing completed
+2026-04-07 15:50:47,646 - INFO - Report generated successfully
